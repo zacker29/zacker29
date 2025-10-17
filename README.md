@@ -142,5 +142,5 @@ To begin my cybersecurity career as a **SOC Analyst or Security Engineer**, leve
 
 ## 📫 Connect With Me  
 📧 **Email:** [zackerkrish29@gmail.com](mailto:zackerkrish29@gmail.com)  
-🌐 **GitHub:** [github.com/nooruljulaihala](https://github.com/nooruljulaihala)  
+🌐 **GitHub:** [github.com/zacker29](https://github.com/zacker29)  
 💼 **LinkedIn:** [linkedin.com/in/prasand-ravindran-387251234/](https://www.linkedin.com/in/prasand-ravindran-387251234/)
